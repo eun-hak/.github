@@ -28,6 +28,8 @@
   
   - [정보보호학과 - 김도현](https://github.com/K-Diger)
 
+  - [컴퓨터SW - 이원석](https://github.com/wonslee)
+
 ---
 
 [팀 블로그](https://medium.com/@uswsuwiki)
