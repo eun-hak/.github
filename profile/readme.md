@@ -11,6 +11,8 @@
   - [미디어SW - 이영진](https://github.com/truewayy)
   
   - [정보보호학과 - 조성래](https://github.com/orgs/uswLectureEvaluation/people/Denebe)
+    
+  - [컴퓨터sw - 조기범](https://github.com/eun-hak)
   
   ### Android
   
